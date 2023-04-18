@@ -4,7 +4,7 @@
 ![Languages](https://img.shields.io/github/languages/count/BrunoOliveira16/proway-computers?style=for-the-badge)
 ![Status projeto](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-blue?style=for-the-badge)
 
-<img src="./src/assets/screen-01.jpg">
+![Imagem do projeto](src/assets/screen-01.jpg)
 
 <br>
 
