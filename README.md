@@ -1,27 +1,65 @@
-# ProwayComputers
+# E-commerce ProwayComputers
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+![GitHub repo size](https://img.shields.io/github/repo-size/BrunoOliveira16/proway-computers?style=for-the-badge)
+![Languages](https://img.shields.io/github/languages/count/BrunoOliveira16/proway-computers?style=for-the-badge)
+![Status projeto](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-blue?style=for-the-badge)
 
-## Development server
+<img src="./src/assets/screen-01.jpg">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<br>
 
-## Code scaffolding
+## 📎 Sumário
+- 📌 Resumo do Projeto
+- 🛠️ Abrir e rodar o projeto
+- ⭐ Features
+- 📂 Temas abordados
+- ✔️ Tecnologias Utilizadas
+- 💻 Demonstração
+- 🙋🏻‍♂️ Autor
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<br>
 
-## Build
+## 📌 Resumo do Projeto
+O projeto trata-se de um ecommerce de produtos de informática, onde o usuário será capaz de escolher o produto, adicionar ao carrinho de compras e finalizar sua compra.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<br>
 
-## Running unit tests
+## 🛠️ Abrir e rodar o projeto
+Para Rodar o projeto em sua máquina, dentro da pasta raiz do projeto, execute o comando abaixo no terminal, para a instalação das depêndencias:
+```
+npm install
+```
+Após a instalação do projeto, execute o comando abaixo para inicializar o projeto:
+```
+npm start
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<br>
 
-## Running end-to-end tests
+## ⭐ Features
+🚧 seção em construção 🚧
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<br>
 
-## Further help
+## 📂 Temas abordados
+🚧 seção em construção 🚧
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<br>
+
+## ✔️ Tecnologias Utilizadas
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+## 💻 Demonstração
+🚧 seção em construção 🚧
+
+<br>
+
+## 🙋🏻‍♂️ Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/103857382?v=4" width=115><br><sub>Bruno Oliveira</sub>](https://github.com/BrunoOliveira16) |
+| :---: |
+Desenvolvedor Front-End
