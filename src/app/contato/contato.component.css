@@ -3,6 +3,8 @@
   color: var(--gray);
   font-weight: 700;
   padding: 8px 0;
+  margin-top: 16px;
+  text-align: center;
 }
 
 .contact-form {
@@ -29,6 +31,8 @@
 }
 
 .contact__container {
+  width: 80%;
+  margin: auto;
   display: flex;
   flex-flow: row wrap;
   column-gap: 20px;
