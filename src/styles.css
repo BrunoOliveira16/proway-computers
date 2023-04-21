@@ -75,14 +75,16 @@ textarea {
 
 .error-message {
     color: red;
+    position: relative;
+    top: -15px
 }
 
 .valid {
-    border: 1px solid var(--green);
+    border: 2px solid var(--green);
 }
 
 .invalid {
-    border: 1px solid red;
+    border: 2px solid red;
 }
 
 .invalid:focus {
